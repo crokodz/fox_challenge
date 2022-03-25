@@ -1,6 +1,6 @@
 # Fox Challenge
 There are no third parth dependency used so creating an environment is overkill.
-but if you wish to use and env you may execute and activate the vend.
+but if you wish to use the env you may execute and activate the vend.
 $ python -m venv fox_env
 
 
